@@ -1,0 +1,6 @@
+{
+    "dbt.perspectiveTheme": "Vintage",
+    "terminal.integrated.env.osx": {
+        "DBT_PROFILES_DIR": "/Users/mattkennedy/.dbt"
+    }
+}
